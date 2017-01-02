@@ -1,0 +1,7 @@
+# AppStore Project .gitignore
+
+out
+.idea
+*.swp
+*.iml
+
